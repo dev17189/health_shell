@@ -1,6 +1,6 @@
 <div align="center">
     
-![GitHub](https://github.com/disha100/Health_shell/blob/main/nutri3-1.png)
+<img src="![GitHub](https://github.com/disha100/Health_shell/blob/main/nutri3-1.png)">
     
 </div>
 <h1 align="center"> Health Shell </h1>
